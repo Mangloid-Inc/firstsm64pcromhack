@@ -17,16 +17,16 @@
 #endif
 
 DEFINE_DIALOG(DIALOG_000, 1, 6, 30, 200, _("\
-Wow! You're smack in the\n\
-middle of the battlefield.\n\
-You'll find the Power\n\
-Stars that Bowser stole\n\
+Wow! You're ratioed in the\n\
+middle of Twitter.\n\
+You'll find the ratio\n\
+that Bowser dropped\n\
 inside the painting\n\
 worlds.\n\
 First, talk to the\n\
-Bob-omb Buddy. (Press [B]\n\
+Twitter User. (Press [B]\n\
 to talk.) He'll certainly\n\
-help you out, and so will\n\
+cancel you, and so will\n\
 his " COMRADES " in other\n\
 areas.\n\
 To read signs, stop, face\n\
@@ -40,22 +40,22 @@ DEFINE_DIALOG(DIALOG_001, 1, 4, 95, 200, _("\
 Watch out! If you wander\n\
 around here, you're liable\n\
 to be " PLASTERED " by a\n\
-water bomb!\n\
-Those enemy Bob-ombs love\n\
-to fight, and they're\n\
+transgender person!\n\
+Those enemy transgenders love\n\
+to be offended all the time, and they're\n\
 always finding ways to\n\
 attack.\n\
 This meadow has become\n\
 a battlefield ever since\n\
-the Big Bob-omb got his\n\
-paws on the Power Star.\n\
-Can you recover the Star\n\
+the Elon Musk got his\n\
+paws on Twitter.\n\
+Can you recover Twitter\n\
 for us? Cross the bridge\n\
-and go left up the path\n\
-to find the Big Bob-omb.\n\
+of Cringe and go left up the path\n\
+to find the Elon Musk.\n\
 Please come back to see\n\
 me after you've retrieved\n\
-the Power Star!"))
+the Twitter... you stupid fucking incel."))
 
 DEFINE_DIALOG(DIALOG_002, 1, 4, 95, 200, _("\
 Hey, you! It's dangerous\n\
@@ -65,35 +65,32 @@ my advice.\n\
 Cross the two\n\
 bridges ahead, then\n\
 watch for falling\n\
-water bombs.\n\
-The Big Bob-omb at the\n\
+Discord mods.\n\
+The ELon Musk at the\n\
 top of the mountain is\n\
 very powerful--don't let\n\
 him grab you!\n\
-We're Bob-omb Buddies,\n\
-and we're on your side.\n\
-You can talk to us\n\
-whenever you'd like to!"))
+We're gigachads,\n\
+and we're cool."))
 
 DEFINE_DIALOG(DIALOG_003, 1, 5, 95, 200, _("\
-Thank you, Mario! The Big\n\
-Bob-omb is nothing but a\n\
+Thank you, Mario! The Elon Musk is nothing but a\n\
 big dud now! But the\n\
-battle for the castle has\n\
+battle for the Twitter has\n\
 just begun.\n\
 Other enemies are holding\n\
-the other Power Stars. If\n\
-you recover more Stars,\n\
+the other normal people. If\n\
+you recover more normal people,\n\
 you can open new doors\n\
 that lead to new worlds!\n\
-My Bob-omb Buddies are\n\
+My gigachads are\n\
 waiting for you. Be sure\n\
 to talk to them--they'll\n\
 set up cannons for you."))
 
 DEFINE_DIALOG(DIALOG_004, 1, 3, 95, 200, _("\
 We're peace-loving\n\
-Bob-ombs, so we don't use\n\
+Gigachads, so we don't use\n\
 cannons.\n\
 But if you'd like\n\
 to blast off, we don't\n\
@@ -104,8 +101,7 @@ you to use. Bon Voyage!"))
 
 DEFINE_DIALOG(DIALOG_005, 1, 3, 30, 200, _("\
 Hey, Mario! Is it true\n\
-that you beat the Big\n\
-Bob-omb? Cool!\n\
+that you beat the Elon Musk? Cool!\n\
 You must be strong. And\n\
 pretty fast. So, how fast\n\
 are you, anyway?\n\
@@ -114,13 +110,13 @@ Koopa the Quick? I don't\n\
 think so. Just try me.\n\
 How about a race to the\n\
 mountaintop, where the\n\
-Big Bob-omb was?\n\
+Elon Musk was?\n\
 Whaddya say? When I say\n\
 『Go,』 let the race begin!\n\
 \n\
 Ready....\n\
 \n\
-//Go!////Don't Go"))
+//GO RIGHT NOW////Mommy hold me im scared"))
 
 DEFINE_DIALOG(DIALOG_006, 1, 3, 30, 200, _("\
 Hey!!! Don't try to " SCAM_ME
